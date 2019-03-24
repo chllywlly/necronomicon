@@ -1,2 +1,2 @@
-# necronomicon2
+# necronomicon
 student of chaos
